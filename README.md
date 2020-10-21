@@ -1,6 +1,6 @@
 # Knowing Right from Wrong - Should We Use More Complex Models for Automatic Short-Answer Scoring in Bahasa Indonesia?
 
-Authors: [Ali Akbar Septiandri](twitter.com/aliakbars), [Yosef Ardhito Winatmoko](twitter.com/yoseflaw), [Ilham Firdausi Putra](twitter.com/ilhamfp31)
+Authors: [Ali Akbar Septiandri](https://twitter.com/aliakbars), [Yosef Ardhito Winatmoko](https://twitter.com/yoseflaw), [Ilham Firdausi Putra](https://twitter.com/ilhamfp31)
 
 **To appear in [SustaiNLP](https://sites.google.com/view/sustainlp2020) workshop at [EMNLP 2020](https://2020.emnlp.org/)**
 
@@ -33,4 +33,4 @@ Total training time for each method (in minutes)
 
 ## Acknowledgement
 
-The authors would like to thank the Natural Language Processing Group of Universitas Gadjah Mada and PUSPENDIK, Ministry of Education and Culture of Indonesia for providing the dataset and organizing challenge. The authors also very much appreciate the reviewers for constructive feedback.
+The authors would like to thank the [Natural Language Processing Group of Universitas Gadjah Mada](https://nlp.mipa.ugm.ac.id/) and PUSPENDIK, Ministry of Education and Culture of Indonesia for providing the dataset and organizing challenge. The authors also very much appreciate the reviewers for constructive feedback.
