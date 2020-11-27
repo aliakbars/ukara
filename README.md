@@ -34,3 +34,21 @@ Total training time for each method (in minutes)
 ## Acknowledgement
 
 The authors would like to thank the [Natural Language Processing Group of Universitas Gadjah Mada](https://nlp.mipa.ugm.ac.id/) and PUSPENDIK, Ministry of Education and Culture of Indonesia for providing the dataset and organizing challenge. The authors also very much appreciate the reviewers for constructive feedback.
+
+## Citing This Work
+
+```
+@inproceedings{septiandri-etal-2020-knowing,
+    title = "Knowing Right from Wrong: Should We Use More Complex Models for Automatic Short-Answer Scoring in {B}ahasa {I}ndonesia?",
+    author = "Septiandri, Ali Akbar  and
+      Winatmoko, Yosef Ardhito  and
+      Putra, Ilham Firdausi",
+    booktitle = "Proceedings of SustaiNLP: Workshop on Simple and Efficient Natural Language Processing",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.sustainlp-1.1",
+    pages = "1--7",
+}
+```
