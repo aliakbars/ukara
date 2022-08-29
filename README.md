@@ -2,7 +2,7 @@
 
 Authors: [Ali Akbar Septiandri](https://twitter.com/aliakbars), [Yosef Ardhito Winatmoko](https://twitter.com/yoseflaw), [Ilham Firdausi Putra](https://twitter.com/ilhamfp31)
 
-**To appear in [SustaiNLP](https://sites.google.com/view/sustainlp2020) workshop at [EMNLP 2020](https://2020.emnlp.org/)**
+**Appeared in [SustaiNLP](https://sites.google.com/view/sustainlp2020) workshop at [EMNLP 2020](https://2020.emnlp.org/)**
 
 ![](https://nlp.mipa.ugm.ac.id/wp-content/uploads/sites/888/2019/07/UKARA-LOGO-800X-218-300x82.png)
 
